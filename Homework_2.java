@@ -108,7 +108,7 @@ public class Homework_2 {
     }
 
     //#5
-
+//bubble sort
     public static int[] sort(int[] a){
         System.out.println(Arrays.toString(a));
         int temp = 0;
