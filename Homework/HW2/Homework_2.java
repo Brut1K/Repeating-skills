@@ -1,3 +1,5 @@
+package Homework.HW2;
+
 import java.util.Arrays;
 
 public class Homework_2 {
